@@ -45,9 +45,9 @@ export default function Home() {
 				{/* Main Section */}
 				<section>
 					<AboutMe />
-					<Education />
-					<ToolBox />
 					<Projects />
+					<Education />
+					<ToolBox />					
 				</section>
 
 				{/* Footer/Contact Me Section */}
